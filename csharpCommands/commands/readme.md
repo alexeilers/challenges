@@ -2,6 +2,7 @@
 
 ## dotnet Commands
 - [dotnet build](build.md)
+- [dotnet clean](clean.md)
 - [dotnet format](format.md)
 - [dotnet new](new.md)
 - [dotnet publish](publish.md)
